@@ -1,0 +1,20 @@
+#banner{	
+	width: 468px;
+	height: 66px;
+}
+
+
+#legalBtn{	
+	@include pos(5, 17);	
+	// opacity: 1;
+}
+
+
+.bgGrad{
+	height: 33px;
+	opacity: .5;
+}
+
+.ill{
+	transform-origin: 70% 100%;
+}
